@@ -1,2 +1,2 @@
 # hello-world
-Following the guide
+Following the guide.
